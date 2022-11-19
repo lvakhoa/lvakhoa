@@ -2,6 +2,8 @@
 
 ~~This line is gonna be removed~~
 
+**This line is bolded**
+
 <!--
 **lvakhoa/lvakhoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,11 +4,11 @@
 
 ### Hi, guys!
 
-### I'm **Khoa**, a human being on Earth. I'm a student at University of Information Technology, majoring in Software Engineer.
+### I'm Khoa, a human being on Earth. I'm a student at University of Information Technology, majoring in Software Engineer.
 
 - 🐬 I'm currently participating in Trainee Program
 
-- 💻 I'm currently learning Web Development
+- 💻 I'm struggling to learn Web Development
 
 - 🌱 I enjoy learning new skills and technologies
 

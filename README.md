@@ -1,20 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://miro.medium.com/max/640/1*mr7WXw8tgpMhqugKP2WhrA.gif" align="center" style="width: 70%" />
+</div>
 
-~~This line is gonna be removed~~
+### Hi, guys!
 
-**This line is bolded**
+### I'm Khoa, a human being on Earth. I'm a student at University of Information Technology, majoring in Software Engineer.
 
-<!--
-**lvakhoa/lvakhoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐬 I'm currently participating in Trainee Program
 
-Here are some ideas to get you started:
+- 💻 I'm currently learning Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I enjoy learning new skills and technologies
+
+The best way to contact me is usually through [Facebook](https://www.facebook.com/profile.php?id=100009336035560) or [Gmail](https://mail.google.com/mail/u/1/#inbox).

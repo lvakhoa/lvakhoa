@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://miro.medium.com/max/640/1*mr7WXw8tgpMhqugKP2WhrA.gif" align="center" style="width: 70%" />
+  <img src="https://miro.medium.com/max/640/1*mr7WXw8tgpMhqugKP2WhrA.gif" align="center" />
 </div>
 
 ### Hi, guys!
 
-### I'm Khoa, a human being on Earth. I'm a student at University of Information Technology, majoring in Software Engineer.
+### I'm **Khoa**, a human being on Earth. I'm a student at University of Information Technology, majoring in Software Engineer.
 
 - 🐬 I'm currently participating in Trainee Program
 

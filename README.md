@@ -14,6 +14,12 @@ I'm Khoa, a human being on Earth. I'm a student at **University of Information T
 
 - 🌱 Enjoy learning new skills and technologies
 
+<h2>Skills</h2>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 <div align="center">
 
 ---

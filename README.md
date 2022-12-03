@@ -16,6 +16,8 @@ I'm Khoa, a human being on Earth. I'm a student at **University of Information T
 
 <div align="center">
 
+---
+
 <h3>Connect with me 🤝</h3>
 
 <a href="https://www.facebook.com/profile.php?id=100009336035560"><img src="https://img.shields.io/badge/Lê Khoa-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>

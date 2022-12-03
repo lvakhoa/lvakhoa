@@ -8,11 +8,11 @@ I'm Khoa, a human being on Earth. I'm a student at **University of Information T
 
 <h2>About me</h2>
 
-- 🐬 I'm currently participating in **Trainee Program**, an activity of [Đoàn - Hội Khoa Học Máy Tính UIT](https://www.facebook.com/DoanHoiKHMT?mibextid=LQQJ4d)
+- 🐬 Currently participating in **Trainee Program**, an activity of [Đoàn - Hội Khoa Học Máy Tính UIT](https://www.facebook.com/DoanHoiKHMT?mibextid=LQQJ4d)
 
-- 💻 I'm struggling to learn Web Development
+- 💻 Struggling to learn **Web Development**
 
-- 🌱 I enjoy learning new skills and technologies
+- 🌱 Enjoy learning new skills and technologies
 
 <div align="center">
 

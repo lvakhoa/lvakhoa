@@ -4,7 +4,7 @@
 
 <h2>Hi, guys!</h2>
 
-I'm Khoa, a human being on Earth. I'm a student at **University of Information Technology**, majoring in **Software Engineer**.
+I'm Khoa, a human being on Earth. I'm a student at **University of Information Technology**, majoring in **Software Engineering**.
 
 <h2>About me</h2>
 
@@ -32,24 +32,3 @@ I'm Khoa, a human being on Earth. I'm a student at **University of Information T
 <a href="https://www.linkedin.com/in/l%C3%AA-v%C4%83n-anh-khoa-1666b4254/"><img src="https://img.shields.io/badge/Lê Văn Anh Khoa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
-
-<style>
-  .button {
-    padding: 8px 16px;
-    text-decoration: none;
-    border: solid #333;
-    position: relative;
-    left: 50%;
-    color: #333;
-    border-radius: 15px;
-}
-
-.button:hover {
-    background-color: #333;
-    color: #fff;
-}
-</style>
-
-<body>
-  <a class="button" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&t=1s"></a>
-</body>
